@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-axcios-qiita/static/css/main.8214e961.chunk.css",
+    "main.js": "/react-axcios-qiita/static/js/main.8b9dc2ff.chunk.js",
+    "main.js.map": "/react-axcios-qiita/static/js/main.8b9dc2ff.chunk.js.map",
+    "runtime-main.js": "/react-axcios-qiita/static/js/runtime-main.6aeda590.js",
+    "runtime-main.js.map": "/react-axcios-qiita/static/js/runtime-main.6aeda590.js.map",
+    "static/js/2.c6ac33f3.chunk.js": "/react-axcios-qiita/static/js/2.c6ac33f3.chunk.js",
+    "static/js/2.c6ac33f3.chunk.js.map": "/react-axcios-qiita/static/js/2.c6ac33f3.chunk.js.map",
+    "static/js/3.95c344e8.chunk.js": "/react-axcios-qiita/static/js/3.95c344e8.chunk.js",
+    "static/js/3.95c344e8.chunk.js.map": "/react-axcios-qiita/static/js/3.95c344e8.chunk.js.map",
+    "index.html": "/react-axcios-qiita/index.html",
+    "static/css/main.8214e961.chunk.css.map": "/react-axcios-qiita/static/css/main.8214e961.chunk.css.map",
+    "static/js/2.c6ac33f3.chunk.js.LICENSE.txt": "/react-axcios-qiita/static/js/2.c6ac33f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6aeda590.js",
+    "static/js/2.c6ac33f3.chunk.js",
+    "static/css/main.8214e961.chunk.css",
+    "static/js/main.8b9dc2ff.chunk.js"
+  ]
+}
